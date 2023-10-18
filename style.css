@@ -10,7 +10,7 @@ background-size: 100% 100%;
 
 h1{font-size: 55px;}
 .aqua-color{color: aqua;}
-section{
+.flexible-container{
     display: flex;
 }
 .half-width{width:50%;
