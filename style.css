@@ -4,7 +4,6 @@ body{font-family: 'Poppins', sans-serif;
 background-image: url(images/background.png);
 background-repeat: no-repeat;
 background-size: 100% 100%;
-
 }
 
 
@@ -22,7 +21,7 @@ h1{font-size: 55px;}
 .linkbutton{
 text-decoration: none;
 background-image:linear-gradient(aqua,blue);
-padding: 10px 40px;
+padding: 10px 30px;
 border-radius: 6px;
 color:white;
 }
@@ -33,4 +32,20 @@ color:white;
    border-radius : 20px;
    padding : 50px;
    text-align: justify;
+}
+
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+    padding:5%;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+border-radius: 3%;
+border-left: 10px solid;
+border-image: linear-gradient(aqua,white) 0 100%;
+
+}
+footer p{
+    text-align: center;
 }
